@@ -1,0 +1,8 @@
+OpenSSL Certificate Assignment
+•	Contents of the certificate file showcases the:
+o	Signature Algorithm: sha256WithRSAEncryption
+o	The Issuer Info being the info I input.
+o	Validity dates: March 31, 2023, 12:39 GMT – March 30, 2024, 12:39 GMT
+o	Public Key Algorithm: rsaEncryption
+	RSA involves using two keys: a public key and a private key. The public key is used to encrypt data and can be shared with anyone, while the private key is kept secret and is used to decrypt the data.
+
