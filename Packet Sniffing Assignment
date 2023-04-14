@@ -1,0 +1,1 @@
+From the screen shot of the packet sniffer we see mostly TCP (Transmission Control Protocols). Specifically for number 1252 we see that the packet length is 76 bytes and that it is a SYN packet which is used to initiate a connection between devices.
