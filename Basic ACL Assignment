@@ -1,0 +1,4 @@
+Basic ACL Assignment
+The (chmod) command is used to modify the access permissions of files and directories. There are 3 permissions that can be given read(r), write(w), and execute(x) across three different groups user, group, and other. The execute (x) permission give access to be able to change directories(cd) into the directory.
+ 
+ 
