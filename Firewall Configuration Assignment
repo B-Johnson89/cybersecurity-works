@@ -1,0 +1,11 @@
+Firewall Configuration Assignment
+ 
+1.	TCP port 80: Hypertext Transfer Protocol (HTTP) - used for web traffic over the internet.
+2.	TCP port 21: File Transfer Protocol (FTP) - used for transferring files between computers over the internet.
+3.	TCP port 23: Telnet - used for remotely accessing and managing devices, such as routers or servers.
+4.	TCP port 80 (v6): Hypertext Transfer Protocol over IPv6 (HTTP/IPv6) - used for web traffic over the internet using the IPv6 protocol.
+5.	TCP port 21 (v6): File Transfer Protocol over IPv6 (FTP/IPv6) - used for transferring files between computers over the internet using the IPv6 protocol.
+6.	TCP port 23 (v6): Telnet over IPv6 (Telnet/IPv6) - used for remotely accessing and managing devices, such as routers or servers using the IPv6 protocol.
+
+•	Advantages of this configuration include flexibility and compatibility. Allowing all actions from anywhere allows easy use for users that need access to the network from various locations. All open ports allow all services to work as intended.
+•	Disadvantages are security risks and increased vulnerability. Allowing all actions from anywhere makes it easier for threat actors to have unauthorized access to sensitive information and devices. 
