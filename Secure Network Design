@@ -1,0 +1,20 @@
+Secure Network Design Assignment
+
+
+1.	Photo 1
+a.	The employee laptop and guest computer connecting via the wireless access point might be susceptible to eavesdropping, man-in-the-middle attacks, or unauthorized access if the wireless network is not properly secured.
+i.	I would implement strong encryption and authentication methods for the wireless network.
+b.	The XP-SP1 computer, presumably running Windows XP Service Pack 1, may be especially vulnerable to exploits and attacks due to its outdated and unsupported operating system.
+i.	I would update or replace the XP-SP1 computer with a more recent and supported operating system.
+
+2.	Photo 2 
+a.	The security issue I see is the interconnectivity between these private area networks could lead to the spread of threats or breaches if one of the networks is compromised.
+i.	To mitigate I would use network segmentation to isolate the different private networks from each other, reducing the risk of threats spreading between them.
+b.	Misconfiguration of access control rules in the Guard 1 and 2 boxes may expose the private networks to unnecessary risks.
+i.	I would implement and maintain strict access control rules to minimize the exposure of private networks to external threats.
+
+3.	Photo 3
+a.	A security concern in this photo would be that the PC & Mobile devices are connected to a secure router and can be exposed to malware or unauthorized access.
+i.	I would recommend strong and unique passwords for all devices and include 2FA when possible.
+b.	The smart plug, webcam, and IP phone connected to the IoT router could be compromised by cybercriminals if they have weak security features or are not updated regularly.
+i.	I would ensure the IoT devices with built-in security features, such as strong encryption and secure authentication methods. Update firmware regularly.
