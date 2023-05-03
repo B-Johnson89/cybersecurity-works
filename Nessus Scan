@@ -6,13 +6,6 @@
 - Man In the Middle Attacks. This allows attackers to intercept, modify, or inject malicious data between computers leading to access or data left.
 - Like sending mail without a seal, so anyone can read or modify it without anyone knowing.
 
-![Example image](images/Nessus 1.jpg)
-
-![Example image](images/Nessus 2.jpg)
-
-![Example image](images/Nessus 3.jpg)
-
-
 **Mitigating**
 
 - Update your systems: Make sure all your devices and operating systems are up-to-date with the latest security patches.
@@ -22,3 +15,6 @@
 - Restrict access: Limit access to shared resources on your network by implementing strong access controls, such as password policies, user authentication, and network segmentation.
 - Use encryption: Whenever possible, use encryption to protect data in transit. This can be achieved through technologies like IPsec (Internet Protocol Security) or VPN (Virtual Private Network) connections.
 
+![Nessus 1](https://user-images.githubusercontent.com/130095937/236072988-9ae237da-f7f7-468e-a803-32f0fc0387f7.jpg)
+![Nessus 2](https://user-images.githubusercontent.com/130095937/236073019-c021569c-3204-4140-b74d-4aafe58bfed9.jpg)
+![Nessus 3](https://user-images.githubusercontent.com/130095937/236073027-78c4f880-1faa-441d-a5ba-df514f87c62c.jpg)
